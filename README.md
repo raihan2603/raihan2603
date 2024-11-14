@@ -4,7 +4,7 @@
 #### Front-End Developer | Passionate About JavaScript, React, Redux, HTML, CSS, Bootstrap, npm, git | Expanding Backend Skills via Ostad Platform
 I'm Raihan Ahmed, an enthusiastic web developer on a journey to create dynamic and interactive web experiences. Currently, I'm focused on refining my skills and gaining hands-on experience in Front-End Development.
 I’m deeply immersed in learning and honing my craft. My days are spent on personal projects, participating in online courses, and Expanding my Back-End Development and Database Management with help of Ostad platform.
-My goal is to become a professional web developer, creating web solutions that are both user-centric and efficient. I’m committed to continuous learning and always eager to embrace new technologies and techniques to craft innovative web projects.
+My goal is to become a professional Full-Stack web developer, creating web solutions that are both user-centric and efficient. I’m committed to continuous learning and always eager to embrace new technologies and techniques to craft innovative web projects.
 
 Skills:  REACT JS / JS/Bootstrap / HTML / CSS
 
